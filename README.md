@@ -1,9 +1,8 @@
-# Nmap IRC front end  plugin
+# Metasploit MSFCLI IRC front end  plugin
 
 [![Gem Version](https://badge.fury.io/rb/cinch-metasploit.png)](http://badge.fury.io/rb/cinch-metasploit)
 
-This plugin uses metasploit port scanner to check on open/closed ports
-on target hosts.
+This plugin uses metasploit msfcli for some metasploit actions
 
 you need to have metasploit installed!
 
