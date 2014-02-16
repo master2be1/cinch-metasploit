@@ -24,15 +24,12 @@ Then load it in your bot:
     bot.start
 
 ## Commands
-### !metasploit  <module/exploit> < options(RHOST etc) > < >
-Port scan a host
+### !metasploit  < module/exploit > < options(RHOST etc) > < >
+call msfcli with modules/exploits and their options for single use
 
 ## Options
 None.
 
 ## TODO
 
-- put in some checks
-- add scan options
-- try to get rid of the xml tmp file
-
+- everything
